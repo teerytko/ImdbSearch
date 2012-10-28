@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">IMDB Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">IMDB Search</string>
+    <string name="search_name">Search</string>
+    <string name="enter_search_hint">Enter search string</string>
+    <string name="title_activity_imdb_item">IMDB Item</string>
+    <string name="text_open">Open in Browser</string>
+
+</resources>
